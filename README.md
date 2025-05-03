@@ -29,9 +29,10 @@ While Hindi is one of the most widely spoken languages globally, NLP systems and
 | Accuracy             | 49.4%                | **57.2%**         | +7.8%       |
 | F1 Score             | 0.6789               | **0.7877**        | +10.87%     |
 | mBERT Score          | 0.7136               | **0.7598**        | +6.38%      |
-| Domain Precision     | —                    | **70%**           | —           |
 
-📸 _Insert evaluation table or charts here from report/ppt_
+Accuracy (Domain Classification | 70%
+
+
 
 ## ⚙️ System Architecture
 
