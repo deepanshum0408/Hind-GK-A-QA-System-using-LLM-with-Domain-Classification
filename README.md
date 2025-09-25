@@ -94,6 +94,18 @@ The pipeline consists of:
   Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
   </p>
 
+<h2> Refrence </h2>
+@INPROCEEDINGS{9066238,
+  author={Laskar, Sahinur Rahman and Deepanshu and Saxena, Divi and Badhani, Ritika and Viswakarma, Kumar Anish and Ranjan, Rakesh},
+  booktitle={IEEE  17th International Conference on Computational Intelligence and Communication Networks (CICN 2025)}, 
+  title={HindGK: A LLM-Based Question Answering System for Hindi General Knowledge}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Mathematical model;Decoding;Google;Predictive models;Computer science;Natural language processing;Machine Translation (MT);Neural Machine Translation (NMT);BLEU score;Attention Mechanism},
+  doi={10.1109/CICT48419.2019.9066238}}
+
 
 
 
