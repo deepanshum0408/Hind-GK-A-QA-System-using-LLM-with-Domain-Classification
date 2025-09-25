@@ -86,15 +86,7 @@ The pipeline consists of:
     <li><strong>Email:</strong> divisaxena04@gmail.com / Divi.107784@stu.upes.ac.in</li>
     <li><strong>GitHub:</strong> <a href="https://github.com/B97784/">Divi Saxena</a></li>
   </ul>
-  <ul>
-    <li><strong>Name:</strong> Ayesha Varshney /li>
-    <li><strong>Education:</strong> B.tech CSE(AIML) , UPES, Dehradun</li>
-    <li><strong>Email:</strong>  ayeshavarshney245@gmail.com / </li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/AYESHA-VARSHNEY">Ayesha Varshney </a></li>
-  </ul>
-  
-  
-  
+ 
   <h2 id="mentor">Mentor</h2>
   <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
   Assistant Professor<br>
